@@ -1,6 +1,6 @@
 # @ba/sec-notice-token-list
 
-This NPM module and GitHub repo contains the Blockchain Association's List of ERC20 Tokens Subject to SEC Actions.
+This GitHub repo contains the Blockchain Association's List of ERC20 Tokens Subject to SEC Actions.
 
 ## Adding a token
 
