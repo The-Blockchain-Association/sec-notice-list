@@ -1,7 +1,7 @@
 [
   {
     "chainId": 1,
-    "address": "0x4156d3342d5c385a87d264f90653733592000581",
+    "address": "0x4156D3342D5c385a87D264F90653733592000581",
     "name": "SALT",
     "symbol": "SALT",
     "decimals": 8,
@@ -9,7 +9,7 @@
   },
   {
     "chainId": 1,
-    "address": "0xe83e098eedb43b33d340d4757529e5a2c4ee3230",
+    "address": "0xe83E098eedb43B33d340d4757529E5A2c4eE3230",
     "name": "Boon Tech",
     "symbol": "BOON",
     "decimals": 18,
@@ -17,7 +17,7 @@
   },
   {
     "chainId": 1,
-    "address": "0x1234567461d3f8db7496581774bd869c83d51c93",
+    "address": "0x1234567461d3f8Db7496581774Bd869C83D51c93",
     "name": "BitClave",
     "symbol": "CAT",
     "decimals": 18,
@@ -25,7 +25,7 @@
   },
   {
     "chainId": 1,
-    "address": "0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4",
+    "address": "0xf0Ee6b27b759C9893Ce4f094b49ad28fd15A23e4",
     "name": "Enigma",
     "symbol": "ENG",
     "decimals": 8,
@@ -33,7 +33,7 @@
   },
   {
     "chainId": 1,
-    "address": "0x6175f6f85339f1e56affac5a68cbf8297969004d",
+    "address": "0x6175f6F85339f1e56AFFAc5A68cBf8297969004D",
     "name": "Shopin Token",
     "symbol": "SHOP",
     "decimals": 9,
@@ -41,7 +41,7 @@
   },
   {
     "chainId": 1,
-    "address": "0x9dc1ce41ca15d5f500f50ea7da15da21e4f80a1a",
+    "address": "0x9dC1Ce41cA15D5f500f50EA7da15da21e4f80a1a",
     "name": "Fantasy Market Token",
     "symbol": "FMT",
     "decimals": 0,
@@ -57,7 +57,7 @@
   },
   {
     "chainId": 1,
-    "address": "0xf0f8b0b8dbb1124261fc8d778e2287e3fd2cf4f5",
+    "address": "0xF0f8B0B8DBB1124261FC8d778E2287e3Fd2Cf4f5",
     "name": "bitqy",
     "symbol": "BQ",
     "decimals": 3,
@@ -65,7 +65,7 @@
   },
   {
     "chainId": 1,
-    "address": "0x0a9c5b451dd8a467e80671380a875085fe053e30",
+    "address": "0x0a9C5b451Dd8A467e80671380a875085fE053e30",
     "name": "bitqyM",
     "symbol": "BQM",
     "decimals": 3,
@@ -73,7 +73,7 @@
   },
   {
     "chainId": 1,
-    "address": "0x8f3470a7388c05ee4e7af3d01d8c722b0ff52374",
+    "address": "0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374",
     "name": "Veritaseum",
     "symbol": "VERI",
     "decimals": 18,
@@ -97,7 +97,7 @@
   },
   {
     "chainId": 1,
-    "address": "0x27dce1ec4d3f72c3e457cc50354f1f975ddef488",
+    "address": "0x71D01dB8d6a2fBEa7f8d434599C237980C234e4C",
     "name": "AirToken",
     "symbol": "AIR",
     "decimals": 8,
@@ -113,7 +113,7 @@
   },
   {
     "chainId": 1,
-    "address": "0x24692791bc444c5cd0b81e3cbcaba4b04acd1f3b",
+    "address": "0x24692791Bc444c5Cd0b81e3CBCaba4b04Acd1F3B",
     "name": "UnikoinGold",
     "symbol": "UKG",
     "decimals": 18,
@@ -121,7 +121,7 @@
   },
   {
     "chainId": 1,
-    "address": "0x78b039921e84e726eb72e7b1212bb35504c645ca",
+    "address": "0x78B039921E84E726EB72E7b1212bb35504c645cA",
     "name": "Sether",
     "symbol": "SETH",
     "decimals": 18,
@@ -129,15 +129,7 @@
   },
   {
     "chainId": 1,
-    "address": "0x78b039921e84e726eb72e7b1212bb35504c645ca",
-    "name": "Sether",
-    "symbol": "SETH",
-    "decimals": 18,
-    "logoURI": ""
-  },
-  {
-    "chainId": 1,
-    "address": "0x8a1e3930fde1f151471c368fdbb39f3f63a65b55",
+    "address": "0x8A1E3930FDe1f151471c368fDBb39F3F63A65B55",
     "name": "Bezop",
     "symbol": "Bez",
     "decimals": 18,
@@ -153,7 +145,7 @@
   },
   {
     "chainId": 1,
-    "address": "0xd5f788ca0de8f17cbde1d1e35aa8f005a87fa00b",
+    "address": "0xd5f788ca0de8f17cBDe1D1E35aA8F005A87fa00b",
     "name": "Shivers",
     "symbol": "SHVR",
     "decimals": 8,
@@ -169,7 +161,7 @@
   },
   {
     "chainId": 1,
-    "address": "0xc029ba3dc12e1834571e821d94a07de0a01138ea",
+    "address": "0xc029ba3dC12e1834571E821d94a07dE0A01138eA",
     "name": "Qubicle",
     "symbol": "QBE",
     "decimals": 18,
@@ -185,7 +177,7 @@
   },
   {
     "chainId": 1,
-    "address": "0xbb9bc244d798123fde783fcc1c72d3bb8c189413",
+    "address": "0xBB9bc244D798123fDe783fCc1C72d3Bb8C189413",
     "name": "DAO",
     "symbol": "TheDAO",
     "decimals": 16,
@@ -193,7 +185,7 @@
   },
   {
     "chainId": 1,
-    "address": "0xb3203db25a01fa7950a860b42b899ad7da52ddd6",
+    "address": "0xb3203DB25a01fa7950a860B42b899Ad7Da52DDD6",
     "name": "PlexCoin",
     "symbol": "PLX",
     "decimals": 8,
@@ -217,7 +209,7 @@
   },
   {
     "chainId": 1,
-    "address": "0xee8bd1502c3e9f6c543781467c01592ac51cfbb8",
+    "address": "0xEE8Bd1502c3e9F6c543781467c01592ac51CFbb8",
     "name": "Titanium BAR",
     "symbol": "TBAR",
     "decimals": 18,
@@ -225,7 +217,7 @@
   },
   {
     "chainId": 1,
-    "address": "0x160383dfbe5b0c17068991daf8d4570711c354d1",
+    "address": "0x160383DFBe5b0C17068991DaF8d4570711C354D1",
     "name": "RGL",
     "symbol": "RGL",
     "decimals": 18,
@@ -233,7 +225,7 @@
   },
   {
     "chainId": 1,
-    "address": "0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0",
+    "address": "0x86Fa049857E0209aa7D9e616F7eb3b3B78ECfdb0",
     "name": "EOS",
     "symbol": "EOS",
     "decimals": 18,
@@ -249,7 +241,7 @@
   },
   {
     "chainId": 1,
-    "address": "0x0Cd7CA934c174f43b2c69683Ed302db0f5CF199e",
+    "address": "0xf76dA36fe74BB8B36D56Cb96F4866aDA345B65fA",
     "name": "Blockchain Terminal Token",
     "symbol": "BCT",
     "decimals": 18,
@@ -257,7 +249,7 @@
   },
   {
     "chainId": 1,
-    "address": "0xbb8a43af111b59c7742f36e9cd245357d04059fd",
+    "address": "0xBb8A43AF111B59c7742f36E9cd245357d04059FD",
     "name": "Bitcoiin",
     "symbol": "B2G",
     "decimals": 10,
@@ -273,7 +265,7 @@
   },
   {
     "chainId": 1,
-    "address": "0x4672bad527107471cb5067a887f4656d585a8a31",
+    "address": "0x4672bAD527107471cB5067a887f4656D585a8A31",
     "name": "Dropil",
     "symbol": "DROP",
     "decimals": 18,
@@ -281,7 +273,7 @@
   },
   {
     "chainId": 1,
-    "address": "0x882d911c2fdce3cfa37c6ebbae7d8d3beeb6d17f",
+    "address": "0x882d911c2FDcE3CFa37C6eBbAe7D8D3BeEb6D17f",
     "name": "ABTC",
     "symbol": "ABTC",
     "decimals": 8,
@@ -289,7 +281,7 @@
   },
   {
     "chainId": 1,
-    "address": "0x17fd666fa0784885fa1afec8ac624d9b7e72b752",
+    "address": "0x17fD666fa0784885fa1AFEc8AC624d9b7e72B752",
     "name": "FLiK",
     "symbol": "FLIK",
     "decimals": 14,
@@ -297,7 +289,7 @@
   },
   {
     "chainId": 1,
-    "address": "0x24dcc881e7dd730546834452f21872d5cb4b5293",
+    "address": "0x24DCc881E7Dd730546834452F21872D5cb4b5293",
     "name": "Data Transaction Token",
     "symbol": "XD",
     "decimals": 18,
@@ -313,7 +305,7 @@
   },
   {
     "chainId": 1,
-    "address": "0x4c218ac55d53e9de63214f7dde5b4db2a5d48ed3",
+    "address": "0x4C218ac55d53e9De63214f7DDE5B4dB2a5d48ED3",
     "name": "Oyster Akoya",
     "symbol": "AKYE",
     "decimals": 18,
@@ -321,7 +313,7 @@
   },
   {
     "chainId": 1,
-    "address": "0x6b963f7b38980f5fbbd129fe98059eb2144076a7",
+    "address": "0x6B963f7B38980f5fbBd129fE98059eB2144076A7",
     "name": "BlockVest",
     "symbol": "BLVE",
     "decimals": 1,
@@ -329,7 +321,7 @@
   },
   {
     "chainId": 1,
-    "address": "0xfc3f409be8d8325d419cb80d68b0f571c6da8f67",
+    "address": "0xFC3f409Be8d8325d419Cb80d68B0F571C6DA8F67",
     "name": "Pro Coin",
     "symbol": "PROC",
     "decimals": 18,
@@ -337,7 +329,7 @@
   },
   {
     "chainId": 1,
-    "address": "0xe25b0bba01dc5630312b6a21927e578061a13f55",
+    "address": "0xe25b0BBA01Dc5630312B6A21927E578061A13f55",
     "name": "ShipChain SHIP",
     "symbol": "SHIP",
     "decimals": 18,
@@ -345,7 +337,7 @@
   },
   {
     "chainId": 1,
-    "address": "0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8",
+    "address": "0x08f5a9235B08173b7569F83645d2c7fB55e8cCD8",
     "name": "Tierion Network Token",
     "symbol": "TNT",
     "decimals": 8,
@@ -353,7 +345,7 @@
   },
   {
     "chainId": 1,
-    "address": "0xfdff4c1ad7712cc11725ac4aa1eed5fb687595f4",
+    "address": "0xFDfF4C1aD7712cc11725AC4AA1EEd5fB687595f4",
     "name": "Coinseed Token",
     "symbol": "CSD",
     "decimals": 18,
