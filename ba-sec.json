@@ -1,6 +1,6 @@
 {
   "name": "Blockchain Association's List of ERC20 Tokens Subject to SEC Actions",
-  "timestamp": "2021-02-25T18:13:55.709Z",
+  "timestamp": "2021-02-25T18:16:59.858Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -32,7 +32,7 @@
     },
     {
       "chainId": 1,
-      "address": "0x71D01dB8d6a2fBEa7f8d434599C237980C234e4C",
+      "address": "0x27Dce1eC4d3f72C3E457Cc50354f1F975dDEf488",
       "name": "AirToken",
       "symbol": "AIR",
       "decimals": 8,
@@ -192,7 +192,7 @@
     },
     {
       "chainId": 1,
-      "address": "0x71d01db8d6a2fbea7f8d434599c237980c234e4c",
+      "address": "0x71D01dB8d6a2fBEa7f8d434599C237980C234e4C",
       "name": "Gladius",
       "symbol": "GLA",
       "decimals": 8,
