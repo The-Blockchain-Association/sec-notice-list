@@ -1,32 +1,32 @@
 {
-  "name": "@uniswap/unsupported-token-list",
+  "name": "@blockchainassociation/sec-tokens",
   "version": "1.0.0",
-  "description": "◦ List of tokens that are unsupported in Uniswap V2 (due to various errors)",
-  "main": "build/uniswap-unsupported.tokenlist.json",
+  "description": "◦ Blockchain Association's List of ERC20 Tokens Subject to SEC Actions",
+  "main": "build/ba-sec.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/uniswap-unsupported.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/ba-sec.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/uniswap-unsupported.tokenlist.json"
+    "build/ba-sec.tokenlist.json"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Uniswap/default-token-list.git"
+    "url": ""
   },
   "keywords": [
-    "uniswap",
-    "default",
-    "token",
-    "list"
+    "blockchain association",
+    "SEC",
+    "action",
+    "tokens"
   ],
-  "author": "Moody Salem",
+  "author": "Ian Lapham",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Uniswap/unsupported-token-list/issues"
+    "url": "https://theblockchainassociation.org/"
   },
-  "homepage": "https://github.com/Uniswap/unsupported-token-list#readme",
+  "homepage": "https://theblockchainassociation.org/",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@uniswap/token-lists": "^1.0.0-beta.8",

@@ -8,7 +8,8 @@ const kovan = require("./tokens/kovan.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "Uniswap Unsupported List",
+    name:
+      "Blockchain Association's List of ERC20 Tokens Subject to SEC Actions",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
@@ -16,8 +17,8 @@ module.exports = function buildList() {
       patch: +parsed[2],
     },
     tags: {},
-    logoURI: "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
-    keywords: ["uniswap", "unsupported"],
+    logoURI: "ipfs://QmXsbxYZrdZrgqDMv37BaNmwsoG79uCk4ic8iYB9Nqaw4J",
+    keywords: ["blockchain association", "sec", "action"],
     tokens: [...mainnet, ...ropsten, ...goerli, ...kovan, ...rinkeby]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
