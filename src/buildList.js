@@ -8,7 +8,7 @@ const kovan = require("./tokens/kovan.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "BA SEC Non Compliant",
+    name: "BA: ERC20 SEC Action",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
