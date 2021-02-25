@@ -1,6 +1,6 @@
 {
-  "name": "BA SEC non-compliant",
-  "timestamp": "2021-02-25T18:21:45.950Z",
+  "name": "BA non-compliant",
+  "timestamp": "2021-02-25T18:30:03.115Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -8,7 +8,7 @@
   },
   "tags": {},
   "logoURI": "ipfs://QmXsbxYZrdZrgqDMv37BaNmwsoG79uCk4ic8iYB9Nqaw4J",
-  "keywords": ["blockchain association", "sec", "action"],
+  "keywords": ["blockchain", "sec", "action"],
   "tokens": [
     {
       "chainId": 1,
@@ -244,7 +244,7 @@
     },
     {
       "chainId": 1,
-      "address": "0x1844b21593262668b7248d0f57a220caaba46ab9",
+      "address": "0x1844b21593262668B7248d0f57a220CaaBA46ab9",
       "name": "Oyster Pearl",
       "symbol": "PRL",
       "decimals": 18,

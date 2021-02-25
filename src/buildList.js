@@ -8,7 +8,7 @@ const kovan = require("./tokens/kovan.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "BA SEC non-compliant",
+    name: "BA non-compliant",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
@@ -17,7 +17,7 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI: "ipfs://QmXsbxYZrdZrgqDMv37BaNmwsoG79uCk4ic8iYB9Nqaw4J",
-    keywords: ["blockchain association", "sec", "action"],
+    keywords: ["blockchain", "sec", "action"],
     tokens: [...mainnet, ...ropsten, ...goerli, ...kovan, ...rinkeby]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
