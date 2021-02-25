@@ -8,11 +8,7 @@
   },
   "tags": {},
   "logoURI": "ipfs://QmXsbxYZrdZrgqDMv37BaNmwsoG79uCk4ic8iYB9Nqaw4J",
-  "keywords": [
-    "blockchain association",
-    "sec",
-    "action"
-  ],
+  "keywords": ["blockchain association", "sec", "action"],
   "tokens": [
     {
       "chainId": 1,
