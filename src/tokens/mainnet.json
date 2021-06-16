@@ -317,5 +317,12 @@
     "name": "Synth sXRP",
     "symbol": "sXRP",
     "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xf76dA36fe74BB8B36D56Cb96F4866aDA345B65fA",
+    "name": "Blockchain Terminal Token",
+    "symbol": "BCT",
+    "decimals": 18
   }
 ]
