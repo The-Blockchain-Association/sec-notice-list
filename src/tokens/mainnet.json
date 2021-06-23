@@ -320,9 +320,9 @@
   },
   {
     "chainId": 1,
-    "address": "0xf76dA36fe74BB8B36D56Cb96F4866aDA345B65fA",
-    "name": "Blockchain Terminal Token",
-    "symbol": "BCT",
+    "address": "0x9c23D67AEA7B95D80942e3836BCDF7E708A747C2",
+    "name": "LOCIcoin",
+    "symbol": "LOCI",
     "decimals": 18
   }
 ]

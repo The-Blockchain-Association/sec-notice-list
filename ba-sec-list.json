@@ -1,6 +1,6 @@
 {
   "name": "BA ERC20 SEC Action",
-  "timestamp": "2021-05-25T19:04:33.892Z",
+  "timestamp": "2021-06-23T04:34:09.241Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -179,6 +179,13 @@
       "name": "ICOS",
       "symbol": "ICOS",
       "decimals": 8
+    },
+    {
+      "chainId": 1,
+      "address": "0x9c23D67AEA7B95D80942e3836BCDF7E708A747C2",
+      "name": "LOCIcoin",
+      "symbol": "LOCI",
+      "decimals": 18
     },
     {
       "chainId": 1,
