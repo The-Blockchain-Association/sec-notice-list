@@ -1,6 +1,6 @@
 {
   "name": "BA ERC20 SEC Action",
-  "timestamp": "2021-05-25T19:04:33.892Z",
+  "timestamp": "2021-06-23T04:29:18.867Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -51,6 +51,13 @@
       "name": "BlockChain of Things",
       "symbol": "BCOT",
       "decimals": 6
+    },
+    {
+      "chainId": 1,
+      "address": "0xf76dA36fe74BB8B36D56Cb96F4866aDA345B65fA",
+      "name": "Blockchain Terminal Token",
+      "symbol": "BCT",
+      "decimals": 18
     },
     {
       "chainId": 1,
@@ -179,6 +186,13 @@
       "name": "ICOS",
       "symbol": "ICOS",
       "decimals": 8
+    },
+    {
+      "chainId": 1,
+      "address": "0x9c23d67aea7b95d80942e3836bcdf7e708a747c2",
+      "name": "LOCIcoin",
+      "symbol": "LOCI",
+      "decimals": 18
     },
     {
       "chainId": 1,
