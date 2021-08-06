@@ -1,6 +1,6 @@
 {
   "name": "@blockchainassociation/sec-tokens",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "◦ Blockchain Association's List of ERC20 Tokens Subject to SEC Actions",
   "main": "build/ba-sec.tokenlist.json",
   "scripts": {
