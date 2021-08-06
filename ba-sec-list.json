@@ -1,6 +1,6 @@
 {
   "name": "BA ERC20 SEC Action",
-  "timestamp": "2021-06-23T04:34:09.241Z",
+  "timestamp": "2021-08-06T16:12:35.231Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -121,6 +121,13 @@
       "address": "0xFDfF4C1aD7712cc11725AC4AA1EEd5fB687595f4",
       "name": "Coinseed Token",
       "symbol": "CSD",
+      "decimals": 18
+    },
+    {
+      "chainId": 1,
+      "address": "0xEd91879919B71bB6905f23af0A68d231EcF87b14",
+      "name": "DMM : Governance",
+      "symbol": "DMG",
       "decimals": 18
     },
     {
