@@ -1,6 +1,6 @@
 {
   "name": "BA ERC20 SEC Action",
-  "timestamp": "2022-10-03T21:37:16.859Z",
+  "timestamp": "2022-10-03T22:03:29.938Z",
   "version": {
     "major": 2,
     "minor": 0,
@@ -148,7 +148,7 @@
       "chainId": 1,
       "address": "0x15874d65e649880c2614e7a480cb7c9A55787FF6",
       "name": "EthereumMax",
-      "symbol": "eMAX",
+      "symbol": "eMax",
       "decimals": 18
     },
     {
