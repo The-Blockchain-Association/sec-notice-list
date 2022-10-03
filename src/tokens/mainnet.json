@@ -331,5 +331,26 @@
     "name": "DMM : Governance",
     "symbol": "DMG",
     "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x946112efaB61C3636CBD52DE2E1392D7A75A6f01",
+    "name": "HYDRO TOKEN",
+    "symbol": "HYDRO",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x15874d65e649880c2614e7a480cb7c9A55787FF6",
+    "name": "EthereumMax",
+    "symbol": "eMax",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x419c4dB4B9e25d6Db2AD9691ccb832C8D9fDA05E",
+    "name": "Dragon",
+    "symbol": "DRGN",
+    "decimals": 18
   }
 ]
